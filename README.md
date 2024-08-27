@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-Este é um projeto de um Jogo/Sistema de Xadrez desenvolvido em Java como parte de um curso online de Java, do básico ao avançado. O projeto foi desenvolvido com a ajuda do professor do curso, aplicando conceitos fundamentais da linguagem Java, incluindo Programação Orientada a Objetos, estrutura de dados e tratamento de exceções, enquanto desenvolve um sistema funcional de xadrez.
+Este é um projeto de um Jogo/Sistema de Xadrez desenvolvido em Java. O projeto tem como objetivo aplicar conceitos fundamentais da linguagem Java, incluindo Programação Orientada a Objetos, estrutura de dados e tratamento de exceções, enquanto desenvolve um sistema funcional de xadrez.
 
 ## 📚 Funcionalidades
 
