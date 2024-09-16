@@ -14,9 +14,8 @@ Este é um projeto de um Jogo/Sistema de Xadrez desenvolvido em Java. O projeto 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Linguagem de Programação**: ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white)
-- **IDE**: ![Eclipse](https://img.shields.io/badge/Eclipse-%230B3D91?style=for-the-badge&logo=eclipse&logoColor=white)
-- **Paradigma**: Programação Orientada a Objetos
+- **Linguagem de Programação**   **|**   **IDE**
+- ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white)      **|**       ![Eclipse](https://img.shields.io/badge/Eclipse-%230B3D91?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ## 🎯 Objetivos de Aprendizado
 
