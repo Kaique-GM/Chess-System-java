@@ -30,7 +30,7 @@ Este é um projeto de um Jogo/Sistema de Xadrez desenvolvido em Java. O projeto 
 
 ## 🎓 Agradecimentos
 
-Este projeto foi desenvolvido como parte do meu aprendizado prático em Java, com foco na implementação de um sistema de xadrez. Através de um curso de Java que estou realizando, pude aprofundar conceitos de orientação a objetos, manipulação de matrizes e lógica de programação avançada. 
+Este projeto foi desenvolvido como parte do meu aprendizado prático em Java, com foco na implementação de um sistema de xadrez. Através de um curso de Java que realizei, pude aprofundar conceitos de orientação a objetos, manipulação de matrizes e lógica de programação avançada. 
 
 [![Udemy](https://img.shields.io/badge/Udemy-%236300c7?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/java-curso-completo/learn/lecture/10420480#questions)  
 **Confira o curso aqui.**
